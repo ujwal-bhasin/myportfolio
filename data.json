@@ -1,10 +1,10 @@
 {
-    "name": "Bharat Agarwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
+    "name": "UJWAL BHASIN ",
+    "title": "PROGRAMMER,sportsperson,web page developer,multimedia amd web tech. ",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
             "title": "Skill 1",
-            "rating": "90"
+            "rating": "50"
         },
         {
             "title": "Skill 2",
@@ -19,8 +19,8 @@
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "lovely professional University",
+        "phone": "8847391187",
+        "email": "ujwalbhasin3@gmail.com"
     }
 }
