@@ -1,10 +1,10 @@
 {
     "name": "UJWAL BHASIN ",
-    "title": "PROGRAMMER,sportsperson,web page developer,multimedia amd web tech. ",
+    "title": "programmer,sportsperson,web page developer,multimedia and web tech. ",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
             "title": "Skill 1",
-            "rating": "50"
+            "rating": "60"
         },
         {
             "title": "Skill 2",
@@ -12,7 +12,7 @@
         },
         {
             "title": "Skill 3",
-            "rating": "85"
+            "rating": "95"
         },{
             "title": "Skill 1",
             "rating": "90"
